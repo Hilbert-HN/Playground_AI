@@ -4,10 +4,9 @@
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/40123599/172683240-c60f2fb1-c80e-4d6b-bcd5-eea9358f5045.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/40123599/172683871-5922b438-cf00-4658-b4cc-2a26c0c140d3.gif" width="250" height="250">|<img src="https://user-images.githubusercontent.com/40123599/172684491-43e42457-8976-4fdf-8ecf-1318b10debf3.png" width="250" height="250">|
 
-
 # Human Pose Estimation
 ### Network comparsion
-|Network|2D/3D|Single/Multiple Pose|Key-points|Method|
+|Network|2D/3D|Single/Multiple Pose|Key-points|[Method](#bottom-up-vs-top-down-methods)|
 |---|---|---|---|---|
 |MoveNet.SinglePose|2D|Single Pose|17|Bottom-up|
 |MoveNet.MultiPose|2D|Multiple Pose|17|Bottom-up|
@@ -47,8 +46,8 @@
     Object detection, 3D detection, and pose estimation using center point detection:
   - [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
   
- 
-# Bottom-up vs. Top-down methods
+
+# Bottom-up vs Top-down methods
 All approaches for pose estimation can be grouped into bottom-up and top-down methods.
 
 - **Bottom-up methods** estimate each body joint first and then group them to form a unique pose.
