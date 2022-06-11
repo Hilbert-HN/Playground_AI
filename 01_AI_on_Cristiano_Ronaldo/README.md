@@ -8,8 +8,10 @@
 ### **MoveNet** 
 - GitHub: 
   - https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/movenet
-- MoveNet.Multipose (Tensorflow Hub)
-  - https://tfhub.dev/google/movenet/multipose/lightning/1
+- Tensorflow Hub
+  - [MoveNet.SinglePose.Lightning](https://tfhub.dev/google/movenet/singlepose/lightning/4)
+  - [MoveNet.SinglePose.Thunder](https://tfhub.dev/google/movenet/singlepose/thunder/4)
+  - [MoveNet.Mulitpose.Lightning](https://tfhub.dev/google/movenet/multipose/lightning/1)
 - Tutorial:
   - https://www.youtube.com/watch?v=KC7nJtBHBqg  
 
