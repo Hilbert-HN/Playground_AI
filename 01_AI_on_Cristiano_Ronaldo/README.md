@@ -45,3 +45,10 @@
     Object detection, 3D detection, and pose estimation using center point detection:
   - [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
   
+ 
+# Bottom-up vs. Top-down methods
+All approaches for pose estimation can be grouped into bottom-up and top-down methods.
+
+- Bottom-up methods estimate each body joint first and then group them to form a unique pose. Bottom-up methods were pioneered with DeepCut (a method we will cover later in more detail).
+- Top-down methods run a person detector first and estimate body joints within the detected bounding boxes.
+
