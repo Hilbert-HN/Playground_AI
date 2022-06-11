@@ -4,7 +4,17 @@
 |---|---|---|
 |<img src="https://user-images.githubusercontent.com/40123599/172683240-c60f2fb1-c80e-4d6b-bcd5-eea9358f5045.jpg" width="250" height="250">|<img src="https://user-images.githubusercontent.com/40123599/172683871-5922b438-cf00-4658-b4cc-2a26c0c140d3.gif" width="250" height="250">|<img src="https://user-images.githubusercontent.com/40123599/172684491-43e42457-8976-4fdf-8ecf-1318b10debf3.png" width="250" height="250">|
 
+
 # Human Pose Estimation
+### Network comparsion
+|Network|2D/3D|Single/Multiple Pose|Number of human keypoints|
+|---|---|---|---|
+|MoveNet.SinglePose|2D|Single Pose|17 human keypoints|
+|MoveNet.MultiPose|2D|Multiple Pose|17 human keypoints|
+|BlazePose|2D|Single Pose|33 human keypoints|
+|PoseNet|2D|Multiple Pose|17 human keypoints|
+|GHUM|3D|Single Pose|33 human keypoints|
+
 ### **MoveNet** 
 - GitHub: 
   - https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/movenet
@@ -19,6 +29,10 @@
   - [Articles - Next-Generation Pose Detection with MoveNet and TensorFlow.js](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
   - MoveNet Post-Processing Steps 
     ![image](https://user-images.githubusercontent.com/40123599/173198162-249b5545-4fe3-42f7-9430-797103c02384.png)
+
+### **GHUM** 
+- Useful References
+  - [3D Pose Detection with MediaPipe BlazePose GHUM and TensorFlow.js](https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html)
 
 **Other:**  
 - Network
