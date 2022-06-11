@@ -16,7 +16,10 @@
 - Articles
   - Next-Generation Pose Detection with MoveNet and TensorFlow.js  
     https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html
-    
+  
+  - MoveNet Post-Processing Steps 
+    ![image](https://user-images.githubusercontent.com/40123599/173198162-249b5545-4fe3-42f7-9430-797103c02384.png)
+
 **Other:**  
 - Network
   - [MoveNet Vs BlazePose vs PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection)
