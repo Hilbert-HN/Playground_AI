@@ -12,8 +12,9 @@
 |MoveNet.SinglePose|2D|Single Pose|17 human keypoints|
 |MoveNet.MultiPose|2D|Multiple Pose|17 human keypoints|
 |BlazePose|2D|Single Pose|33 human keypoints|
+|BlazePos GHUM|3D|Single Pose|33 human keypoints|
 |PoseNet|2D|Multiple Pose|17 human keypoints|
-|GHUM|3D|Single Pose|33 human keypoints|
+
 
 ### **MoveNet** 
 - GitHub: 
@@ -33,6 +34,8 @@
 ### **GHUM** 
 - Useful References
   - [3D Pose Detection with MediaPipe BlazePose GHUM and TensorFlow.js](https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html)
+
+![TF image 2](https://user-images.githubusercontent.com/40123599/173200278-6eade188-2f43-4c21-8ec6-855ebed1f2c4.gif)
 
 **Other:**  
 - Network
