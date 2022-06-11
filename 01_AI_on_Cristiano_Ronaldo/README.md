@@ -27,13 +27,13 @@
   - https://www.youtube.com/watch?v=KC7nJtBHBqg  
 
 - Useful References
-  - [Articles - Next-Generation Pose Detection with MoveNet and TensorFlow.js](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
+  - Articles - [Next-Generation Pose Detection with MoveNet and TensorFlow.js](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
   - MoveNet Post-Processing Steps 
     ![image](https://user-images.githubusercontent.com/40123599/173198162-249b5545-4fe3-42f7-9430-797103c02384.png)
 
 ### **GHUM** 
 - Useful References
-  - [3D Pose Detection with MediaPipe BlazePose GHUM and TensorFlow.js](https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html)
+  - Articles - [3D Pose Detection with MediaPipe BlazePose GHUM and TensorFlow.js](https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html)
 
 ![TF image 2](https://user-images.githubusercontent.com/40123599/173200278-6eade188-2f43-4c21-8ec6-855ebed1f2c4.gif)
 
