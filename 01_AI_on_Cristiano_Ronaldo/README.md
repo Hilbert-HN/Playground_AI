@@ -15,7 +15,8 @@
     
 **Other:**  
 - Network
-  - MoveNet Vs BlazePose vs PoseNet:  
-    https://github.com/tensorflow/tfjs-models/tree/master/pose-detection  
+  - [MoveNet Vs BlazePose vs PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection)
   - [CenterNet](https://github.com/xingyizhou/CenterNet)  
     Object detection, 3D detection, and pose estimation using center point detection:
+  - [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+  
