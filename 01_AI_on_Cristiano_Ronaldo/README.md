@@ -7,13 +7,14 @@
 
 # Human Pose Estimation
 ### Network comparsion
-|Network|2D/3D|Single/Multiple Pose|Number of human keypoints|
-|---|---|---|---|
-|MoveNet.SinglePose|2D|Single Pose|17 human keypoints|
-|MoveNet.MultiPose|2D|Multiple Pose|17 human keypoints|
-|BlazePose|2D|Single Pose|33 human keypoints|
-|BlazePose GHUM|3D|Single Pose|33 human keypoints|
-|PoseNet|2D|Multiple Pose|17 human keypoints|
+|Network|2D/3D|Single/Multiple Pose|Key-points|Method|
+|---|---|---|---|---|
+|MoveNet.SinglePose|2D|Single Pose|17|Bottom-up|
+|MoveNet.MultiPose|2D|Multiple Pose|17|Bottom-up|
+|BlazePose|2D|Single Pose|33| |
+|BlazePose GHUM|3D|Single Pose|33| |
+|PoseNet|2D|Multiple Pose|17|Bottom-up|
+|OpenPose| |Multiple Pose|137|Top-down|
 
 
 ### **MoveNet** 
