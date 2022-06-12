@@ -53,6 +53,7 @@ All approaches for pose estimation can be grouped into bottom-up and top-down me
   - [CenterNet](https://github.com/xingyizhou/CenterNet)  
     Object detection, 3D detection, and pose estimation using center point detection:
   - [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+  - [MediaPipe](https://google.github.io/mediapipe/)
   
 
 
